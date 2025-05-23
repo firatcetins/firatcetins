@@ -1,13 +1,34 @@
-<h1 align="center">Hi 👋, I'm Fırat</h1>
-<h3 align="center">A security researcher candidate from Ankara, Turkey</h3>
+<h1 align="center">Hey, I'm Fırat aka root@exploitops 🐚</h1>
+<p align="center">🚩 Red Teamer | 🛠 Exploit Developer | 🎯 OSCP | 👨‍💻 8+ yrs in Pentesting</p>
 
-- 📫 How to reach me **sinanfiratcetin@icloud.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/elfiratico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elfiratico" height="30" width="40" /></a>
-</p>
+### 🧠 About Me
+- 🧰 Specializing in **Web App, Network, AD, Cloud & Binary Exploitation**
+- 👾 CVE Contributor | Custom Exploit & Payload Developer
+- 🕵️ Red Team Operator | Social Engineering & Evasion Enthusiast
+- 💣 Toolsmith — Building red team tools when metasploit gets boring
+- 🎤 Occasional speaker at Bsides, DEFCON groups & local meetups
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+### 📂 Featured Repositories
+
+- 🐍 [exploit-payloads](https://github.com/YOUR_USERNAME/exploit-payloads) – Custom payloads for various post-exploit scenarios
+- 🔍 [AD-Lab-Automation](https://github.com/YOUR_USERNAME/AD-Lab-Automation) – Automated AD attack lab with Terraform & Ansible
+- 🧨 [buffer-battleground](https://github.com/YOUR_USERNAME/buffer-battleground) – Practicing stack-based buffer overflows
+- 🧪 [RedTeam-Toolkit](https://github.com/YOUR_USERNAME/RedTeam-Toolkit) – Curated toolkit for red team engagements
+
+---
+
+### 🧷 Certs & Recognition
+
+- OSCP | CRTP | eCPPTv2 | PNPT
+- CVE-2023-XXXX — Auth Bypass in XYZ CMS
+- Speaker @ Bsides Ankara '24
+
+---
+
+### 📡 Contact
+- 🐦 [Twitter](https://twitter.com/onesandzeroes_)
+- 🔗 [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
